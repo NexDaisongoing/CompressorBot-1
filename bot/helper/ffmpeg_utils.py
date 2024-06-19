@@ -1,5 +1,4 @@
-from bot import crf
-import watermark
+from bot import crf_watermark
 import os
 import sys
 import json
