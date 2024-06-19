@@ -1,5 +1,4 @@
-from bot
-import crf
+from bot import crf
 import watermark
 import os
 import sys
